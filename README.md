@@ -5,8 +5,8 @@
 ```sh
 npm install
 ```
-
-3. Run the project:
+3. Run backend project.
+4. Run frontend project:
 
 ```sh
 npm run dev
